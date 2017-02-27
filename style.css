@@ -108,6 +108,7 @@ body {
     font-weight: 400;
     letter-spacing: 0.3px;
     line-height: 1.7em;
+    background-color: #FBF5EF;
 }
 
 a:hover {
@@ -428,7 +429,7 @@ ul#nav ul li:hover a {
 }
 
 .is-sticky .mainmenu-area {
-    background: #FBF5EF none repeat scroll 0 0;
+    background: #FAF1E7 none repeat scroll 0 0;
 }
 
 .is-sticky .navbar-header {
